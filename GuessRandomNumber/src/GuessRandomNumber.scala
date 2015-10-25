@@ -1,5 +1,6 @@
 /**
  * Created by ADMIN on 25-Oct-15.
+ * A small game where user have to guess a number between 0 and 9, within 5 attempts.
  */
 object GuessRandomNumber {
 

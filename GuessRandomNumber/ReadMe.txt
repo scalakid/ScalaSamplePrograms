@@ -1,0 +1,1 @@
+A small game where user have to guess a number between 0 and 9, within 5 attempts.
