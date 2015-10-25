@@ -14,9 +14,9 @@ object GuessRandomNumber {
   def startGame {                     //function where actual code resides
 
 
-    var a = 0                        //to store number guessed by user  variable, since value is read from keyboard
+    var a = 0                        //to store number guessed by user.  variable-since value is read from keyboard
     var count = 1                    //count no. of chances,decrease in each iteration
-    val randNum = scala.util.Random.nextInt(10) //generate random number between 0 and 9
+    val randNum = scala.util.Random.nextInt(10) //generate random number between 0 and 9,value- since constant
 
     println("You have got 5 attempts.\nGuess a number between 0 and 9 (both inc.) : ...")
 
